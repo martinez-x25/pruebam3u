@@ -1,7 +1,7 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_ARG
+#KODIPROP:inputstream.adaptive.license_key={"d079ffa3757e8335611fc48be6ba47ff":"05059d1cb21b6708a55e9c26fb38e2f3"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3528/3528WHORIZONTAL.jpg?size=290x163" group-title="Deportes",ESPN 1 ARG

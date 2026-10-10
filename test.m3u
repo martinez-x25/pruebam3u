@@ -1,0 +1,6 @@
+#EXTM3U
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_ARG
+#EXTINF:-1,ESPN 1 ARG
+https://cdn-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd

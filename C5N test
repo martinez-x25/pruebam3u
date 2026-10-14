@@ -1,0 +1,12 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-name="C5N" tvg-logo="https://i.ibb.co/L6qCp0d/c5n.png" group-title="Argentina",C5N
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.37
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.py
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+#TOKEN:https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_cenc/C5N.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"75itOkpbn27a6IXov0UNPA","k":"hhhzxsaetm3wr8MDSgKnlg"}],"type":"temporary"}
+https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd

@@ -1,0 +1,179 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="El Tres TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Argentina",El Tres TV
+https://zapster.trapemn.tv:1936/zapster/El3HD.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Telefe HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Telefe.svg/240px-Telefe.svg.png" group-title="Argentina",Telefe HD
+https://zapster.trapemn.tv:1936/CD-LATAM/TelefeHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="América TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Argentina",América TV
+https://zapster.trapemn.tv:1936/Zapster/AmericaTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Pública" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/TV_Publica_Argentina_logo.svg/240px-TV_Publica_Argentina_logo.svg.png" group-title="Argentina",TV Pública
+https://zapster.trapemn.tv:1936/zapster-hls/tvpublica.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Canal_9_Argentina_logo.svg/240px-Canal_9_Argentina_logo.svg.png" group-title="Argentina",Canal 9
+https://zapster.trapemn.tv:1936/Zapster/Canal9.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="El Trece HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/El_Trece_logo_2016.svg/240px-El_Trece_logo_2016.svg.png" group-title="Argentina",El Trece HD
+https://zapster.trapemn.tv:1936/CD-LATAM/ElTreceHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 5 Rosario" group-title="Argentina",Canal 5 Rosario
+https://zapster.trapemn.tv:1936/zapster-transco/Canal5Rosario.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="RTS" group-title="Argentina",RTS
+https://zapster.trapemn.tv:1936/zapster/rts/playlist.m3u8
+#EXTINF:-1 tvg-name="Todo Noticias" group-title="Noticias",Todo Noticias (TN)
+https://zapster.trapemn.tv:1936/CD-LATAM/todonoticias/playlist.m3u8
+#EXTINF:-1 tvg-name="C5N" group-title="Noticias",C5N
+https://zapster.trapemn.tv:1936/zapster/c5n-new.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Crónica TV" group-title="Noticias",Crónica TV
+https://zapster.trapemn.tv:1936/zapster-hls/CronicaTV/playlist.m3u8
+#EXTINF:-1 tvg-name="La Nación+" group-title="Noticias",La Nación+
+https://zapster.trapemn.tv:1936/zapster-hls/LaNacion.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="IP Noticias" group-title="Noticias",IP Noticias
+https://zapster.trapemn.tv:1936/zapster-hls/InformacionPeriodistica.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 1" group-title="Deportes",Fox Sports 1
+https://zapster.trapemn.tv:1936/CD-LATAM/FoxSports1/playlist.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 2" group-title="Deportes",Fox Sports 2
+https://zapster.trapemn.tv:1936/CD-LATAM/FoxSports2/playlist.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 3" group-title="Deportes",Fox Sports 3
+https://zapster.trapemn.tv:1936/CD-LATAM/FoxSports3/playlist.m3u8
+#EXTINF:-1 tvg-name="TNT Sports" group-title="Deportes",TNT Sports
+https://zapster.trapemn.tv:1936/CD-LATAM/TNT_SPORTS/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN 1" group-title="Deportes",ESPN 1
+https://zapster.trapemn.tv:1936/zapster-hls/ESPN1.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN 2" group-title="Deportes",ESPN 2
+https://zapster.trapemn.tv:1936/zapster-hls/ESPN2.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN 3" group-title="Deportes",ESPN 3
+https://zapster.trapemn.tv:1936/zapster-hls/ESPN3.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN 4" group-title="Deportes",ESPN 4
+https://zapster.trapemn.tv:1936/zapster-hls/ESPN4.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN Premium" group-title="Deportes",ESPN Premium
+https://zapster.trapemn.tv:1936/CD-LATAM/ESPNPremiumHD.steam/playlist.m3u8
+#EXTINF:-1 tvg-name="DSports 1" group-title="Deportes",DSports 1
+https://zapster.trapemn.tv:1936/Zapster-hls/dsports1/playlist.m3u8
+#EXTINF:-1 tvg-name="DSports 2" group-title="Deportes",DSports 2
+https://zapster.trapemn.tv:1936/zapster/dsports2/playlist.m3u8
+#EXTINF:-1 tvg-name="América Sports" group-title="Deportes",América Sports
+https://zapster.trapemn.tv:1936/zapster-hls/americasports.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Garage TV" group-title="Deportes",Garage TV
+https://zapster.trapemn.tv:1936/zapster-hls/garagetv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="CNAR Deportes" group-title="Deportes",CNAR Deportes
+https://zapster.trapemn.tv:1936/zapster-internet/cnardeportes/playlist.m3u8
+#EXTINF:-1 tvg-name="Studio Universal" group-title="Cine y series",Studio Universal
+https://zapster.trapemn.tv:1936/CD-LATAM/Studio_Universal/playlist.m3u8
+#EXTINF:-1 tvg-name="Warner" group-title="Cine y series",Warner
+https://zapster.trapemn.tv:1936/CD-LATAM/Warner/playlist.m3u8
+#EXTINF:-1 tvg-name="TNT" group-title="Cine y series",TNT
+https://zapster.trapemn.tv:1936/CD-LATAM/TNTHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Space" group-title="Cine y series",Space
+https://zapster.trapemn.tv:1936/zapster-hls/space.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Cinecanal" group-title="Cine y series",Cinecanal
+https://zapster.trapemn.tv:1936/zapster-hls/cinecanal.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="TNT Series" group-title="Cine y series",TNT Series
+https://zapster.trapemn.tv:1936/zapster/TNT_Series.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="TNT Novelas" group-title="Cine y series",TNT Novelas
+https://zapster.trapemn.tv:1936/zapster/TNT_Novelas.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Universal Channel" group-title="Cine y series",Universal Channel
+https://zapster.trapemn.tv:1936/CD-LATAM/Universal_Channel/playlist.m3u8
+#EXTINF:-1 tvg-name="Comedy Central" group-title="Cine y series",Comedy Central
+https://zapster.trapemn.tv:1936/Zapster/Comedi_Central.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="DreamWorks" group-title="Infantiles",DreamWorks
+https://zapster.trapemn.tv:1936/CD-LATAM/dreamworks.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="DreamWorks" group-title="Infantiles",DreamWorks
+https://zapster.trapemn.tv:1936/CD-LATAM/dreamworks.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Star Channel" group-title="Cine y series",Star Channel
+https://zapster.trapemn.tv:1936/CD-LATAM/Starchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Cine Acción" group-title="Cine y series",Cine Acción
+https://zapster.trapemn.tv:1936/zapster-internet/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network" group-title="Infantiles",Cartoon Network
+https://zapster.trapemn.tv:1936/CD-LATAM/Cartoon_Network/playlist.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon" group-title="Infantiles",Nickelodeon
+https://zapster.trapemn.tv:1936/CD-LATAM/Nickelodeon/playlist.m3u8
+#EXTINF:-1 tvg-name="Nick Jr" group-title="Infantiles",Nick Jr
+https://zapster.trapemn.tv:1936/Zapster/Nick_Junior.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Aire Libre Rosario" group-title="Infantiles",Aire Libre Rosario
+https://zapster.trapemn.tv:1936/zapster/airelibre_rosario.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Cartoonito" group-title="Infantiles",Cartoonito
+https://zapster.trapemn.tv:1936/zapster/Cartoonito.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Adult Swim" group-title="Infantiles",Adult Swim
+https://zapster.trapemn.tv:1936/Zapster/Adult_Swim.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="PakaPaka" group-title="Infantiles",PakaPaka
+https://zapster.trapemn.tv:1936/zapster-hls/PakaPaka.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Disney Channel" group-title="Infantiles",Disney Channel
+https://zapster.trapemn.tv:1936/CD-LATAM/DisneyChannelHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Disney Junior" group-title="Infantiles",Disney Junior
+https://zapster.trapemn.tv:1936/CD-LATAM/DisneyJr.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="HTV" group-title="Música",HTV
+https://zapster.trapemn.tv:1936/CD-LATAM/HTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Mix Music Channel" group-title="Música",Mix Music Channel
+https://zapster.trapemn.tv:1936/zapster/mixmusicchannel/playlist.m3u8
+#EXTINF:-1 tvg-name="La Nueva TV" group-title="Música",La Nueva TV
+https://zapster.trapemn.tv:1936/CD-LATAM/lanuevatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Tropical Moon" group-title="Música",Tropical Moon
+https://zapster.trapemn.tv:1936/CD-LATAM/tropicalmoon.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="CineAR" group-title="Cine y series",CineAR
+https://zapster.trapemn.tv:1936/zapster-hls/CineAR.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="TCM" group-title="Cine y series",TCM
+https://zapster.trapemn.tv:1936/CD-LATAM/TCM.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Telemundo" group-title="Internacionales",Telemundo
+https://zapster.trapemn.tv:1936/CD-LATAM/telemundo.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Xtreme Retro Cartoons" group-title="Infantiles",Xtreme Retro Cartoons
+https://zapster.trapemn.tv:1936/zapster-internet/xtremaretrocartoons/playlist.m3u8
+#EXTINF:-1 tvg-name="Nat Geo" group-title="Documentales",Nat Geo
+https://zapster.trapemn.tv:1936/CD-LATAM/natgeo.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Encuentro" group-title="Documentales",Encuentro
+https://zapster.trapemn.tv:1936/zapster-hls/encuentro.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="TecTV" group-title="Documentales",TecTV
+https://zapster.trapemn.tv:1936/zapster-hls/TecTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN" group-title="Noticias",CNN
+https://zapster.trapemn.tv:1936/CD-LATAM/CNN/playlist.m3u8
+#EXTINF:-1 tvg-name="DW Español" group-title="Internacionales",DW Español
+https://zapster.trapemn.tv:1936/zapster-internet/dw_es/playlist.m3u8
+#EXTINF:-1 tvg-name="France 24 Español" group-title="Internacionales",France 24 Español
+https://zapster.trapemn.tv:1936/zapster-internet/france24_es/playlist.m3u8
+#EXTINF:-1 tvg-name="France 24 Inglés" group-title="Internacionales",France 24 Inglés
+https://zapster.trapemn.tv:1936/zapster-internet/france24_ingles/playlist.m3u8
+#EXTINF:-1 tvg-name="RT Español" group-title="Internacionales",RT Español
+https://zapster.trapemn.tv:1936/zapster-internet/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-name="Onda Digital" group-title="Música",Onda Digital
+https://zapster.trapemn.tv:1936/CD-LATAM/ondadigital.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Argentinísima" group-title="Argentina",Argentinísima
+https://zapster.trapemn.tv:1936/zapster-internet/argentinisima/playlist.m3u8
+#EXTINF:-1 tvg-name="Ciudad Magazine" group-title="Entretenimiento",Ciudad Magazine
+https://zapster.trapemn.tv:1936/zapster-hls/ciudadmagazine.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Entertainment" group-title="Entretenimiento",Entertainment
+https://zapster.trapemn.tv:1936/CD-LATAM/Entertainment/playlist.m3u8
+#EXTINF:-1 tvg-name="BTV Música Retro" group-title="Música",BTV Música Retro
+https://zapster.trapemn.tv:1936/zapster-hls/BTV_Musica_Retro/playlist.m3u8
+#EXTINF:-1 tvg-name="CNC Medellín" group-title="Internacionales",CNC Medellín
+https://zapster.trapemn.tv:1936/CD-LATAM/cncmedellin.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Click TV" group-title="Internacionales",Click TV
+https://zapster.trapemn.tv:1936/CD-LATAM/clicktv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="UCL" group-title="Internacionales",UCL
+https://zapster.trapemn.tv:1936/internacional/ucl.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Suram TV" group-title="Internacionales",Suram TV
+https://zapster.trapemn.tv:1936/CD-LATAM/suramtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="VPITV" group-title="Internacionales",VPITV
+https://zapster.trapemn.tv:1936/CD-LATAM/vpitv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Carioca Internacional" group-title="Internacionales",Carioca Internacional
+https://zapster.trapemn.tv:1936/live/cariocainternacional/playlist.m3u8
+#EXTINF:-1 tvg-name="Aunar" group-title="Internacionales",Aunar
+https://zapster.trapemn.tv:1936/zapster-hls/Aunar.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal E" group-title="Argentina",Canal E
+https://zapster.trapemn.tv:1936/zapster-hls/CanalE.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="CN23" group-title="Noticias",CN23
+https://zapster.trapemn.tv:1936/zapster-hls/CN23.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal Luz" group-title="Internacionales",Canal Luz
+https://zapster.trapemn.tv:1936/CD-LATAM/canalluz.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Nativa" group-title="Internacionales",Nativa
+https://zapster.trapemn.tv:1936/CD-LATAM/nativa.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Nuevo Tiempo" group-title="Internacionales",Nuevo Tiempo
+https://zapster.trapemn.tv:1936/CD-LATAM/nuevotiempo.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="EWTN" group-title="Internacionales",EWTN
+https://zapster.trapemn.tv:1936/CD-LATAM/ewtn.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Sophia TV" group-title="Internacionales",Sophia TV
+https://zapster.trapemn.tv:1936/CD-LATAM/sophiatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Prueba" group-title="Otros",Prueba
+https://zapster.trapemn.tv:1936/prueba_block/enlace.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Suyai TV" group-title="Internacionales",Suyai TV
+https://zapster.trapemn.tv:1936/Zapster/suyaiTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="El Destape" group-title="Noticias",El Destape
+https://zapster.trapemn.tv:1936/zapster-hls/Destape.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Vive TV" group-title="Internacionales",Vive TV
+https://zapster.trapemn.tv:1936/Zapster-hls/vivetv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Aire Libre Rosario" group-title="Infantiles",Aire Libre Rosario
+https://zapster.trapemn.tv:1936/zapster/airelibre_rosario.stream/playlist.m3u8

@@ -11,7 +11,7 @@ https://zapster.trapemn.tv:1936/zapster-hls/tvpublica.stream/playlist.m3u8
 https://zapster.trapemn.tv:1936/Zapster/Canal9.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="El Trece HD" tvg-logo="https://iptvstudio.pages.dev/logos/TV/Am%C3%A9rica%20del%20Sur/Argentina/el-trece.png" group-title="Argentina",El Trece HD
 https://zapster.trapemn.tv:1936/CD-LATAM/ElTreceHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 5 Rosario" tvg-logo="https://iptvstudio.pages.dev/logos/TV/Am%C3%A9rica%20del%20Sur/Argentina/telefe-rosario.png" group-title="Argentina",Canal 5 Rosario
+#EXTINF:-1 tvg-name="Canal 5 Rosario" tvg-logo="https://iptvstudio.pages.dev/logos/TV/Am%C3%A9rica%20del%20Sur/Argentina/telefe-rosario.png" group-title="Argentina",Telefe Rosario
 https://zapster.trapemn.tv:1936/zapster-transco/Canal5Rosario.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="RTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/RTS_Nuevo_Logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" group-title="Argentina",RTS
 https://zapster.trapemn.tv:1936/zapster/rts/playlist.m3u8
@@ -184,3 +184,10 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/940.m3u8|user-agent=Mozilla/5.0 (
 #EXTINF:-1 tvg-name="Los 3 Chiflados 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="😂 24/7 - Series de Comedia",Los 3 Chiflados 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/619.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-name="El Chavo del 8 HD" group-title="📺 Principales - Clásicos",El Chavo del 8 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1173.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-name="Peppa Pig 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🧸 24/7 - Dibujos Animados",Peppa Pig 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/760.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+

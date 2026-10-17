@@ -175,3 +175,12 @@ https://zapster.trapemn.tv:1936/zapster-hls/Destape.stream/playlist.m3u8
 https://zapster.trapemn.tv:1936/Zapster-hls/vivetv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Aire Libre Rosario" tvg-logo="" group-title="Infantiles",Aire Libre Rosario
 https://zapster.trapemn.tv:1936/zapster/airelibre_rosario.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Los Picapiedras 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🧸 24/7 - Dibujos Animados",Los Picapiedras 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/625.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-name="Tom y Jerry" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🧸 24/7 - Dibujos Animados",Tom y Jerry
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/940.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-name="Los 3 Chiflados 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="😂 24/7 - Series de Comedia",Los 3 Chiflados 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/619.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
